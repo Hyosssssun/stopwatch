@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    margin: 0;
+    background-color: rgb(211, 155, 71);
+    height: 100%;
+    color: white;
+}
+
+.container {
+    text-align: center;
+}
+
+h2 {
+    font-family: ;
+    font-weight: 100;
+    font-size: 2.6rem;
+    text-transform: capitalize;
+    text-align: center;
+    color: white;
+}
+
+#mins,
+#secs,
+#tens {
+    font-size: 2rem;
+}
+
+button {
+    width: 150px;
+    height: 50px;
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+    border-radius: 5px;
+    padding: 10px;
+    font-size:larger;
+    margin: 10px;
+}
+
+button:hover {
+    background-color: white;
+    color: rgb(211, 155, 71);
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+button:active {
+    background-color: white;
+    color:rgb(101, 41, 129);
+    font-weight: 600;
+    text-transform: capitalize;
+}
