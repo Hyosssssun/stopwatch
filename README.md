@@ -1,7 +1,5 @@
-<h1 align="center"><b>Stopwatch</b></h1>
+<h1 align="center"><a href="https://hyosssssun.github.io/stopwatch/"><b>Stopwatch</b></a></h1>
 
-This is my toy project `Stopwatch` using vanillaJS, HTML and CSS. You can find the [demo](https://hyosssssun.github.io/stopwatch/) here!
+My first JavaScript project. It has basic function of stopwatch such as start, stop, reset. I was able to learn the structure of DOM.
 
-<br>
-
-![image](https://user-images.githubusercontent.com/59310859/202816436-46cf0c38-5f1d-4841-8be3-f3d333935835.png)
+[![image](https://user-images.githubusercontent.com/59310859/202816436-46cf0c38-5f1d-4841-8be3-f3d333935835.png)](https://hyosssssun.github.io/stopwatch/)
